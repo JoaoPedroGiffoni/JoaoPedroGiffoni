@@ -39,8 +39,8 @@ Fique à vontade para explorar esses projetos e acompanhar meu progresso conform
 
 Se você tiver alguma dúvida, sugestão ou quiser compartilhar recursos e materiais úteis para minha jornada de aprendizado, fique à vontade para entrar em contato comigo. Você pode me encontrar nos seguintes canais:
 
-- E-mail: (mailto:joaopedrogiffoni@hotmail.com)
-- LinkedIn: ([https://www.linkedin.com/in/seu_perfil](https://www.linkedin.com/in/jo%C3%A3o-pedro-giffoni-barbosa-237a67102/?originalSubdomain=br))
+- E-mail: (joaopedrogiffoni@hotmail.com)
+- LinkedIn: (https://www.linkedin.com/in/jo%C3%A3o-pedro-giffoni-barbosa-237a67102/?originalSubdomain=br)
 
 Estou aberto a conversas e a oportunidades de aprendizado colaborativo.
 
