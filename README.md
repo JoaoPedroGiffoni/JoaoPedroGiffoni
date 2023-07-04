@@ -32,6 +32,7 @@ Estou trabalhando em alguns projetos para aplicar e aprimorar minhas habilidades
 
 - [Login-Automatico-Python](https://github.com/JoaoPedroGiffoni/Login-Automatico-Python): Este repositório contém um script em Python que automatiza o processo de login usando Selenium e ChromeDriver.
 - [One Page para Site Comercial](https://github.com/JoaoPedroGiffoni/Projeto_one_page_01): desenvolvimento de uma one page para um site comercial usando HTML,CSS e JS.
+- [Sistema de Agendamentos de Banhos para Pet Shop](https://github.com/JoaoPedroGiffoni/sistemaparapetshop): Sistema de agendamentos de banhos para um pet shop HTML,CSS e JS.
 
 Fique à vontade para explorar esses projetos e acompanhar meu progresso conforme eu aprendo e desenvolvo novas habilidades.
 
