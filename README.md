@@ -1,58 +1,23 @@
-# Sobre mim
+<h1 align="center">Olá 👋, eu sou João Pedro Giffoni</h1>
+<h3 align="center">Frontend Developer</h3>
 
-Sou um entusiasta da programação e estou em constante aprendizado das tecnologias web, como HTML, CSS, JavaScript e Python.
+<p align="left"> <img src="https:/ /komarev.com/ghpvc/?username=joaopedrogiffoni&label=Profile%20views&color=0e75b6&style=flat" alt="joaopedrogiffoni" /> </p>
 
-## Sobre mim
+<p align="left"> <a href="https://github. com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaopedrogiffoni" alt="joaopedrogiffoni" /></a> </ p>
 
-Estou no processo de aprendizado e aprimoramento das tecnologias de desenvolvimento web. Sou apaixonado por programação e estou determinado a me tornar um desenvolvedor completo. Estou sempre buscando novos desafios e projetos para expandir meu conhecimento e habilidades.
+- Login Automatico Python [Este repositório contém um script em Python que automatiza o processo de login usando Selenium e ChromeDriver.](https://github.com/JoaoPedroGiffoni/Login-Automatico-Python)
 
-## Tecnologias
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/joão-pedro-giffoni-barbosa-237a67102" target="blank"><img align="center" src="https://raw.githubusercontent.com /rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão-pedro-giffoni-barbosa-237a67102" height="30" width=" 40" /></a>
+<a href="https://instagram.com/joaopedrogifoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain /github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaopedrogiffoni" height="30" width="40" /></a> </p>
+<
 
-Tenho um conhecimento básico das seguintes tecnologias:
+h3 align="left">Idiomas e Ferramentas:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com /css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt= "css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width= "40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https: //raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href ="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www. photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt= "photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> < img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a > </p>
 
-### HTML
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopedrogiffoni&show_icons=true&locale=en&layout=compact" alt="joaopedrogiffoni" /> </p>
 
-Estou estudando e praticando a linguagem HTML para criar a estrutura e o conteúdo das páginas da web. Estou aprendendo a criar tags, elementos e a utilizar a semântica correta para melhorar a acessibilidade e usabilidade das páginas.
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopedrogiffoni&show_icons=true&locale=en" alt="joaopedrogiffoni" /> </p>
 
-### CSS
-
-Estou explorando o CSS para estilizar e dar vida às páginas da web. Estou aprendendo a aplicar estilos, criar layouts responsivos e utilizar animações para tornar os projetos visualmente atraentes.
-
-### JavaScript
-
-Estou iniciando minha jornada no JavaScript e descobrindo suas possibilidades. Estou aprendendo a manipular elementos da página, realizar validações, interagir com o usuário e realizar requisições assíncronas a APIs para obter e exibir dados dinamicamente.
-
-### Python
-
-Estou estudando a linguagem Python e explorando suas aplicações. Estou aprendendo a criar scripts, manipular dados, realizar tarefas de automação e desenvolver pequenos projetos utilizando bibliotecas e frameworks populares.
-
-## Projetos
-
-Estou trabalhando em alguns projetos para aplicar e aprimorar minhas habilidades. Alguns dos projetos em que estou trabalhando atualmente incluem:
-
-- [Login-Automatico-Python](https://github.com/JoaoPedroGiffoni/Login-Automatico-Python): Este repositório contém um script em Python que automatiza o processo de login usando Selenium e ChromeDriver.
-- [One Page para Site Comercial](https://github.com/JoaoPedroGiffoni/Projeto_one_page_01): desenvolvimento de uma one page para um site comercial usando HTML,CSS e JS.
-- [Sistema de Agendamentos de Banhos para Pet Shop](https://github.com/JoaoPedroGiffoni/sistemaparapetshop): Sistema de agendamentos de banhos para um pet shop HTML,CSS e JS.
-
-Fique à vontade para explorar esses projetos e acompanhar meu progresso conforme eu aprendo e desenvolvo novas habilidades.
-
-## Contato
-
-Se você tiver alguma dúvida, sugestão ou quiser compartilhar recursos e materiais úteis para minha jornada de aprendizado, fique à vontade para entrar em contato comigo. Você pode me encontrar nos seguintes canais:
-
-- E-mail: (joaopedrogiffoni@hotmail.com)
-- LinkedIn: (https://www.linkedin.com/in/jo%C3%A3o-pedro-giffoni-barbosa-237a67102/?originalSubdomain=br)
-
-Estou aberto a conversas e a oportunidades de aprendizado colaborativo.
-
-## Contribuições
-
-Embora eu ainda esteja aprendendo, se você encontrar algum problema nos meus projetos ou tiver sugestões de melhorias, ficarei feliz em receber sua contribuição. Sinta-se à vontade para abrir uma issue ou enviar um pull request, pois isso também me ajudará a aprender e crescer como desenvolvedor.
-
-## Agradecimentos
-
-Gostaria de expressar minha gratidão a todos que  têm apoiado minha jornada de aprendizado e me fornecido recursos e orientações valiosas. 
-
-Obrigado por visitar meu perfil no GitHub!
-
-Espero que, juntos, possamos aprender e crescer na área de desenvolvimento web. Vamos continuar explorando e construindo coisas incríveis!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedrogifoni&" alt="joaopedrogifoni" /></p>
