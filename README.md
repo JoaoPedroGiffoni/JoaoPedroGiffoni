@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=joaopedrogiffoni&label=Profile%20views&color=0e75b6&style=flat" alt="joaopedrogiffoni" />
 </p>
 
-- **Login Automático Python**: [Este repositório contém um script em Python que automatiza o processo de login usando Selenium e ChromeDriver.](https://github.com/JoaoPedroGiffoni/Login-Automatico-Python)
-
 <h3 align="left">Minhas Redes Sociais:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/joão-pedro-giffoni-barbosa-237a67102" target="blank">
