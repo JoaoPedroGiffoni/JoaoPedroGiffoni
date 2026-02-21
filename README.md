@@ -10,7 +10,6 @@
 ### 🧠 Sobre mim:
 
 - 👨‍💻 Desenvolvedor com experiência em aplicações **web completas**, tanto no **frontend** quanto no **backend**.
-- 📚 Atualmente estudando **Java** e aprimorando habilidades em **estruturas de backend** e **bancos de dados**.
 - ⚙️ Conhecimento sólido em **React**, **JavaScript**, **Tailwind CSS**, **Bootstrap**, **WordPress** e **WooCommerce**.
 - 🔗 Familiaridade com **APIs REST**, versionamento com **Git** e metodologias modernas de desenvolvimento.
 - 🚀 Aberto a oportunidades em diversas áreas do desenvolvimento web.
