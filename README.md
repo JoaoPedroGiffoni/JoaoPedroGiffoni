@@ -12,7 +12,6 @@
 - 👨‍💻 Desenvolvedor com experiência em aplicações **web completas**, tanto no **frontend** quanto no **backend**.
 - ⚙️ Conhecimento sólido em **React**, **JavaScript**, **Tailwind CSS**, **Bootstrap**, **WordPress** e **WooCommerce**.
 - 🔗 Familiaridade com **APIs REST**, versionamento com **Git** e metodologias modernas de desenvolvimento.
-- 🚀 Aberto a oportunidades em diversas áreas do desenvolvimento web.
 
 ---
 
